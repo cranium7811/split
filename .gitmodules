@@ -7,3 +7,6 @@
 [submodule "lib/forge-std"]
 	path = lib/forge-std
 	url = https://github.com/brockelmore/forge-std
+[submodule "lib/web3.js"]
+	path = lib/web3.js
+	url = https://github.com/ChainSafe/web3.js
